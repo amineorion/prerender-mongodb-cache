@@ -1,5 +1,5 @@
 {
-  "name": "prerender-mongodb-cache",
+  "name": "prerender-mongodb-cache-fixed",
   "version": "0.0.2",
   "description": "Prerender plugin for MongoDB caching",
   "main": "index.js",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/lammertw/prerender-mongodb-cache",
   "dependencies": {
     "mongodb": "~2.1.0",
-    "cache-manager": "0.2.0"
+    "cache-manager": "0.2.0",
+    "dotenv": "^4.0.0"
   }
 }
