@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lammertw/prerender-mongodb-cache.git"
+    "url": "git://github.com/amineorion/prerender-mongodb-cache-fixed.git"
   },
   "keywords": [
     "prerender",
@@ -18,9 +18,9 @@
   "author": "Lammert Westerhoff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lammertw/prerender-mongodb-cache/issues"
+    "url": "https://github.com/amineorion/prerender-mongodb-cache-fixed/issues"
   },
-  "homepage": "https://github.com/lammertw/prerender-mongodb-cache",
+  "homepage": "https://github.com/amineorion/prerender-mongodb-cache-fixed",
   "dependencies": {
     "mongodb": "~2.1.0",
     "cache-manager": "0.2.0",
